@@ -9,6 +9,10 @@
       "android",
       "web"
     ],
+    "android": {
+      "package": "com.pablohdev.bethehero",
+      "versionCode": 1
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
